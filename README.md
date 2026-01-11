@@ -35,5 +35,3 @@ A lightweight Linux based automation tool that generates a daily system health r
 ## Installation & Setup
 Clone repository and change the config file as per requirement then runs install.sh
 
-
-## Future
