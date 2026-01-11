@@ -1,4 +1,4 @@
-# 🖥️ Automated System Health Reporter
+# Automated System Health Reporter
 
 A lightweight Linux based automation tool that generates a daily system health report and emails it to system administrators.  
 
